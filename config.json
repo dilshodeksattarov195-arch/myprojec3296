@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingfalidate",
+        "uuid": 20019904,
+        "checksum": "5hfile"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
